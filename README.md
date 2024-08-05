@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 
 <!--
 **shashu4ever/shashu4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
